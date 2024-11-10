@@ -7,13 +7,13 @@
   "servertabinfo.gui.unknown": "Неизвестно",
   "servertabinfo.keys.category": "Вкладка информации сервера",
   "servertabinfo.keys.show": "Показать список TPS",
-  "servertabinfo.lostcities:lostcity": "Затерянные города",
+  "servertabinfo.lostcities:lostcity": "Затерянные Города",
   "servertabinfo.minecraft:overworld": "Надземный мир",
   "servertabinfo.minecraft:the_end": "Энд",
   "servertabinfo.minecraft:the_nether": "Незер",
   "servertabinfo.msg.not_allowed": "У вас нет разрешения просматривать производительность сервера",
   "servertabinfo.servertabinfo:overall": "В общем",
-  "servertabinfo.twilightforest:twilight_forest": "Сумеречный лес",
+  "servertabinfo.twilightforest:twilight_forest": "Сумеречный Лес",
   "servertabinfo.bracken:dormis": "Дормис",
   "servertabinfo.bracken:glacium": "Ледник",
   "servertabinfo.bracken:omnidrome": "Омнидром",
@@ -29,5 +29,6 @@
   "servertabinfo.bro:void": "Ничто",
   "servertabinfo.deeperdarker:otherside": "Потусторонье",
   "servertabinfo.graveyard:past": "Прошлое",
+  "servertabinfo.undergarden:undergarden": "Подземный Сад",
   "servertabinfo.man:halucination": "Галлюцинация"
 }
